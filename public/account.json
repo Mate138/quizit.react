@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "id": 0,
+      "username": "teacher1",
+      "password": "1234",
+      "role": "teacher",
+      "createdAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 1,
+      "username": "student1",
+      "password": "1234",
+      "role": "student",
+      "createdAt": "2024-01-15T10:01:00.000Z"
+    }
+  ]
+}

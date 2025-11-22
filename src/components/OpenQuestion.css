@@ -1,0 +1,30 @@
+.open-question-container {
+  margin: 20px 0;
+}
+
+.open-question-textarea {
+  width: 100%;
+  padding: 16px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: inherit;
+  resize: vertical;
+  transition: border-color 0.2s;
+}
+
+.open-question-textarea:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+.open-question-textarea::placeholder {
+  color: #999;
+}
+
+.character-count {
+  text-align: right;
+  color: #999;
+  font-size: 0.85rem;
+  margin-top: 8px;
+}
