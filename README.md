@@ -11,13 +11,6 @@ There is also a plain-HTML version in my account.
 2. Run the two commands below  
 3. Browser opens at http://localhost:3000
 
-## Folder snapshot
-├── html/          ← static version (no build tools)
-├── src/           ← ES6 / React / Vue / whatever you chose
-├── public/        ← favicon, images, etc.
-└── package.json
-Copy
-
 ## Scripts
 | Script        | Purpose                            |
 |---------------|------------------------------------|
@@ -31,3 +24,4 @@ Copy
 
 ## License
 MIT – feel free to fork and hack.
+
